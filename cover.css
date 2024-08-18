@@ -1,0 +1,25 @@
+@import url('https://stockfont.org/?6c9104ed5c89e7a4966839d8d30af7dba1aa2b1f891952b5e9e0fdea697a8b81');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.coverscreen { 
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    font-size: 1.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Anton';
+    text-shadow: 1px 0.3px 1px white;
+}
+
+.health {
+    display: none;
+}
