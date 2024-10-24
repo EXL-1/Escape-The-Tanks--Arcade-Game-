@@ -1,15 +1,15 @@
 /* Sound Effects */
 
 var gameAudio = [];
-gameAudio[0] = new Audio('Game-Main-Music.mp3');
-gameAudio[1] = new Audio('Count-Down.mp3');
-gameAudio[2] = new Audio('Tank-Shot.mp3');
-gameAudio[3] = new Audio('Tank-Shot-2.mp3');
-gameAudio[4] = new Audio('Bomb-Explosion.mp3');
-gameAudio[5] = new Audio('Game-Over.mp3');
-gameAudio[6] = new Audio('Game Over-Music.mp3');
-gameAudio[7] = new Audio('Level-Clear.mp3');
-gameAudio[8] = new Audio('Lose-Life.mp3');
+gameAudio[0] = new Audio('Sound-Effects/Game-Main-Music.mp3');
+gameAudio[1] = new Audio('Sound-Effects/Count-Down.mp3');
+gameAudio[2] = new Audio('Sound-Effects/Tank-Shot.mp3');
+gameAudio[3] = new Audio('Sound-Effects/Tank-Shot-2.mp3');
+gameAudio[4] = new Audio('Sound-Effects/Bomb-Explosion.mp3');
+gameAudio[5] = new Audio('Sound-Effects/Game-Over.mp3');
+gameAudio[6] = new Audio('Sound-Effects/Game Over-Music.mp3');
+gameAudio[7] = new Audio('Sound-Effects/Level-Clear.mp3');
+gameAudio[8] = new Audio('Sound-Effects/Lose-Life.mp3');
 
 
 /* Global Variables */
